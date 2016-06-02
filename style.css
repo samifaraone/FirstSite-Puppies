@@ -1,0 +1,69 @@
+body{
+	background-color:#000066;
+	font-family:Candara;
+	color:#FFFFFF;
+	}
+
+#navigation{
+padding:0;
+margin:0;
+}
+
+#navigation li{
+	display: inline;
+	float: left;
+	}
+
+#navigation a,#navigation a:visited{
+	display:block;
+	width:200px;
+	border:1px solid #FFFFFF;
+	font-size: 0.8em;
+	text-allign:left;
+	text-decoration: none;
+	color: #FFFFFF;
+	}
+	
+#pic1 img{
+	float: left;
+	box-shadow:8px 8px 10px #000000;
+	}
+	
+#pic2 img{
+	border:10px double #000000;
+	}
+	
+table, th, td {
+   border: 1px solid white;
+}
+
+#pic5 img{
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
